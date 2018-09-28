@@ -16,11 +16,11 @@ Restaurants<br/>
 3 chefmozhours4.csv<br/>
 4 chefmozparking.csv<br/>
 5 geoplaces2.csv<br/>
-<br/><br/>
+<br/>
 Consumers<br/>
 6 usercuisine.csv<br/>
 7 userpayment.csv<br/>
 8 userprofile.csv<br/>
-<br/><br/>
-User-Item-Rating
+<br/>
+User-Item-Rating<br/>
 9 rating_final.csv

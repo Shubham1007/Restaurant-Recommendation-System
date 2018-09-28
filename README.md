@@ -7,8 +7,8 @@ The task is to generate a top-n list of restaurants according to the consumer pr
 a collaborative filter technique and a contextual approach.<br/><br/>
 (i) The collaborative filter technique used only one file i.e., rating_final.csv that comprises the user, item and rating attributes.<br/>
 (ii) The contextual approach generated the recommendations using the remaining eight data files.<br/>
-<br>
-<h1>Files, instances and attributes</h1>
+<br/>
+<h1>Files, instances and attributes</h1><br/>
 Number of Files: 9<br/>
 
 Restaurants<br/>

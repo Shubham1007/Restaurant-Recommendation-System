@@ -11,7 +11,7 @@ a collaborative filter technique and a contextual approach.<br/><br/>
 <h1>Files, instances and attributes</h1><br/>
 Number of Files: 9<br/>
 <br/><br/>
-<h4>Restaurants</h4><br/>
+<h1>Restaurants</h1><br/>
 1 chefmozaccepts.csv<br/>
 2 chefmozcuisine.csv<br/>
 3 chefmozhours4.csv<br/>
@@ -26,8 +26,8 @@ Consumers<br/>
 User-Item-Rating<br/>
 9 rating_final.csv
 <br/>
-
-1) Collaborative Filtering 
+<br/>
+<h1>1) Collaborative Filtering </h1><br/>
 Content-based recommendation lacks in detecting inter dependencies or complex behaviors. For example: People might like<br/>
 smartphones with Good Display, only if it has retina display and wouldn’t otherwise.<br/>
 <br/>

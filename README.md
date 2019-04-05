@@ -10,8 +10,8 @@ a collaborative filter technique and a contextual approach.<br/><br/>
 <br/>
 <h1>Files, instances and attributes</h1><br/>
 Number of Files: 9<br/>
-
-Restaurants<br/>
+<br/><br/>
+<h4>Restaurants</h4><br/>
 1 chefmozaccepts.csv<br/>
 2 chefmozcuisine.csv<br/>
 3 chefmozhours4.csv<br/>

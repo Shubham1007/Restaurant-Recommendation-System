@@ -25,3 +25,13 @@ Consumers<br/>
 <br/>
 User-Item-Rating<br/>
 9 rating_final.csv
+<br/>
+
+1) Collaborative Filtering 
+Content-based recommendation lacks in detecting inter dependencies or complex behaviors. For example: People might like<br/>
+smartphones with Good Display, only if it has retina display and wouldn’t otherwise.<br/>
+<br/>
+Collaborative Filtering algorithm considers “User Behaviour” for recommending items. They exploit behaviour of other <br/>
+users and items in terms of transaction history, ratings, selection and purchase information. Other users behaviour<br/>
+and preferences over the items are used to recommend items to the new users. In this case, features of the items are not known.<br/>
+We have a similar User – Feature Matrix as content based.<br/>

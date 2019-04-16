@@ -6,6 +6,7 @@ The task is to generate a top-n list of restaurants according to the consumer pr
 
 
 
+
 <br/><br/>
 <h1>Two approaches were tested:</h1>
 
